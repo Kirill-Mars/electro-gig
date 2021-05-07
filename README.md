@@ -2,9 +2,9 @@
     <title> Купить электронику и бытовую технику </title>
     <body style = "font-family: sans-serif">
         <header style = "background-color: blue">
-            <h1 style = "font-size: 50px; text-align: center"> Электро-концерт </h1>
+            <h1 style = "font-size: 50px; text-align: center"> Electro-Gig </h1>
         </header>
-        <основной>
+        <main>
             <h2 style = "font-size: 40px"> Купите электро товары и бытовую технику по выгодной цене! </h2>
             <p style = "font-size: 20px"> <a name="inf"> </a> Приобретите качественную электронику и бытовую технику от официальных поставщиков! <br/> В нашем магазине часто проходят акции! </p>
             <p style = "font-size: 20px"> Купите любые товары на сумму 5000 рублей и получите кэшбэк 8%! </p>
